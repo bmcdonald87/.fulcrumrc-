@@ -1,0 +1,2 @@
+# .fulcrumrc-
+Scheduler for Fulcrum
